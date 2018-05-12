@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7845
     wikipedia: http://en.wikipedia.org/wiki/Montague_Glass
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18164#Potash--amp--Perlmutter--Their-Copartnership-Ventures-and-Adventures
 gutenberg_issued: '2006-04-13'
 gutenberg_type: Text
 identifiers:
